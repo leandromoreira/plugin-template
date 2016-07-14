@@ -1,6 +1,6 @@
 import {ContainerPlugin, Events} from 'clappr'
 
-export default class <PLUGIN-MODULE-NAME> extends ContainerPlugin {
+export default class <PLUGIN-MODULE-NAME> extends <PLUGIN-TYPE> {
   constructor(container) {
     super(container);
   }
